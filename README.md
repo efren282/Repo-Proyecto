@@ -11,5 +11,5 @@ Para ingresar como supervisor, utilizar las siguientes credenciales:
 
 | ID de empleado        | Contraseña           |
 | -------------         |:-------------:       |
-| FerBen15              | 321                  |
+| FerBen15              | 123                  |
 | VicFer28              | 123                  |
